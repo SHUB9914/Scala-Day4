@@ -9,5 +9,5 @@ def compare(that : Person) = {
 object Persons extends App{
 	val firstPerson = new Person("shubham",20)
 	val secondPerson = new Person("shubham",21)
-	println( firstPerson < econdPersono)
+	println( firstPerson < secondPerson)
 	}
